@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://matingholami.github.io
+title: Matin
+tagline: A log of everyday life
+description: My blog - Forever and beyond!
+paginate: 5
