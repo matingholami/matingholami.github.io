@@ -1,29 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Personal blog of Matin Gholami</title>
+    <title>Pages on Matin Gholami</title>
     <link>https://matingholami.github.io/page/</link>
-    <description>Recent content in Pages on Personal blog of Matin Gholami</description>
+    <description>Recent content in Pages on Matin Gholami</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>MatinGholami</copyright>
     <lastBuildDate>Fri, 03 Apr 2015 02:13:50 +0000</lastBuildDate><atom:link href="https://matingholami.github.io/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
+      <title>About this blog</title>
       <link>https://matingholami.github.io/page/about/</link>
       <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
       
       <guid>https://matingholami.github.io/page/about/</guid>
-      <description>About Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec dolor in magna lobortis egestas. Suspendisse eu erat tempor, tristique neque eu, convallis nulla. Curabitur vel bibendum lacus, at semper mauris. Suspendisse aliquet commodo ex, sed sagittis metus aliquam id. Maecenas feugiat rutrum lorem vel imperdiet. Nullam ornare lectus ut enim finibus, et porttitor mi tincidunt. Aenean lacinia, leo quis vehicula eleifend, quam libero sagittis erat, at euismod augue mauris et sapien.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://matingholami.github.io/page/contact/</link>
-      <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
-      
-      <guid>https://matingholami.github.io/page/contact/</guid>
-      <description>Testing out LMAO</description>
+      <description>If you intend to know more about me or get in touch with me, have a look at My Website
+ I love writing, I mean I love being heard but I love writing regardless of weather my writing is being read or not. I love writing as if it were some sort of calming my unfamiliar-with-peace mind. This &amp;ldquo;personal&amp;rdquo; blog of mine is supposed to be a semi-safe place for me to write, of everything and without a clear goal to be aimed at.</description>
     </item>
     
   </channel>
