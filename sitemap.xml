@@ -2,20 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://matingholami.github.io/2021/an-owl-in-academia/</loc>
+    <lastmod>2021-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matingholami.github.io/page/hugo-tutorial/</loc>
+    <lastmod>2021-10-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://matingholami.github.io/</loc>
-    <lastmod>2021-06-11T02:13:50+00:00</lastmod>
+    <lastmod>2021-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matingholami.github.io/page/</loc>
+    <lastmod>2021-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://matingholami.github.io/post/</loc>
-    <lastmod>2021-06-11T02:13:50+00:00</lastmod>
+    <lastmod>2021-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://matingholami.github.io/2021/test-content/</loc>
     <lastmod>2021-06-11T02:13:50+00:00</lastmod>
   </url><url>
     <loc>https://matingholami.github.io/page/about/</loc>
-    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
-  </url><url>
-    <loc>https://matingholami.github.io/page/</loc>
-    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
+    <lastmod>2021-06-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://matingholami.github.io/tags/</loc>
   </url>

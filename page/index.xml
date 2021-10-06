@@ -7,11 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>MatinGholami</copyright>
-    <lastBuildDate>Fri, 03 Apr 2015 02:13:50 +0000</lastBuildDate><atom:link href="https://matingholami.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://matingholami.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Tutorial</title>
+      <link>https://matingholami.github.io/page/hugo-tutorial/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://matingholami.github.io/page/hugo-tutorial/</guid>
+      <description>Test</description>
+    </item>
+    
     <item>
       <title>About this blog</title>
       <link>https://matingholami.github.io/page/about/</link>
-      <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://matingholami.github.io/page/about/</guid>
       <description>If you intend to know more about me or get in touch with me, have a look at My Website
